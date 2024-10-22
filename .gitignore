@@ -1,0 +1,19 @@
+# PYTHON CACHE
+__pycache__/
+
+# DJANGO STUFF:
+db.sqlite3
+media/
+
+# ENVIRONMENT VARIABLES
+.env
+
+# VIRTUAL ENVIRONMENT
+venv/
+.env/
+
+# IDES AND EDITORS
+.vscode/
+
+# STATIC FILES
+/staticfiles/
